@@ -58,6 +58,14 @@ img{
   margin-bottom: 64px;
 }
 
+.divider2{
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+  margin-bottom: 0px;
+}
+
 #segunda{
   margin-top: 0px;
 }
@@ -77,9 +85,9 @@ img{
   height: 350px;
   object-fit: cover;
 }
-#h3list{
+.h3list{
   font-size: 28px;
-  margin: 20px 56px;
+  margin: 20px 40px;
   height: auto;
   width: 1183.51px;
 }
@@ -92,7 +100,71 @@ img{
 }
 
 #ultimafoto{
+  margin-top: 48px;
   width: 1120px;
   height: 350px;
   object-fit: cover;
+}
+
+#beomeop{
+  margin-bottom: 48px;
+}
+
+.bompara{
+  font-weight: 800;
+}
+
+.pqy{
+  margin-left: 30px;
+}
+
+ul li{
+  /* list-style: inside; */
+  color: black
+}
+
+.pr{
+  /* display: ; */
+  /* color: #591B98; */
+  list-style: disc;
+}
+
+.p1{
+  color: #591B98;
+  font-weight: bold;
+}
+
+.p2{
+  color: #E5245E;
+  font-weight: bold;
+}
+
+.p3{
+  color: #E95E10;
+  font-weight: bold;
+}
+
+.hist{
+  color: #0C51A7;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.fechando{
+  margin-top: 40px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+footer{
+  margin-top: 10px;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 58px;
+}
+
+footer img{
+  vertical-align: middle;
+  width: 16px;
+  height: 16px;
 }
